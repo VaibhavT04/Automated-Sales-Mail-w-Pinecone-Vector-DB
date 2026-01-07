@@ -77,7 +77,7 @@ if submit:
 
             Rules for the email body:
             - Structure the email in **4 paragraphs**, 1–2 lines per paragraph, with a line space between paragraphs.
-            - Start with a greeting addressing the hiring manager's name from {res} (if unavailable, use "Hi Hiring Manager").
+            - Start with a greeting addressing the hiring manager's name from {res} (if unavailable, just use "Hey").
             - End with a professional closing (e.g., "Best regards, Vaibhav Tatkare").
             - Mention your **resume link** naturally: https://drive.google.com/file/d/1lzFyv7BKdrw7y0hx9Lobo1obLMPASaiu/view?usp=sharing
             - Mention your **GitHub link** naturally: https://github.com/VaibhavT04
